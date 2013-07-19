@@ -1,0 +1,29 @@
+#main {
+	
+}
+#page-wrapper {
+	padding: 10px;
+	width: 1200px;
+	margin: auto;
+}
+#header {
+	background-color: #F9B902;
+}
+#content {
+	width: 800px;
+	float: left;
+	height: 400px;
+	background-color: #ECD9AE;
+}
+
+#sidebar {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-color: #7E9ABF;
+}
+
+#footer {
+	background-color: #E8400F;
+	height: 30px;
+}

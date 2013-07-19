@@ -1,0 +1,13 @@
+name = Meetup
+description = A simple demo theme
+core = 7.x
+engine = phptemplate
+screenshot = screenshot.png
+
+regions[header] = 'Header'
+regions[content] = 'content'
+regions[sidebar] = 'sidebar'
+regions[footer] = 'footer'
+
+; CSS
+stylesheets[all][] = css/style.css
