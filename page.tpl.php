@@ -121,7 +121,7 @@
       <?php if ($page['sidebar']): ?>
         <div id="sidebar" class="column sidebar"><div class="section">
           <?php print render($page['sidebar']); ?>
-        </div></div> <!-- /.section, /#sidebar-first -->
+        </div></div> <!-- /.section, /#sidebar -->
       <?php endif; ?>
 
 
